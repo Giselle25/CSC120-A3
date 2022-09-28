@@ -23,6 +23,8 @@ For the main part of the assignment, you will write in Java a program similar to
 
 If at any point the user's input contains words that can be mirrored ("I" <-> "you" for example) then the computer's next response will be a mirrored version of the previous statement. Otherwise it will select from a set of canned phrases. Below is one sample conversation:
 
+
+
 ```
 $ java Conversation
 How many rounds?  2
